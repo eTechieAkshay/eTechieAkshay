@@ -14,21 +14,7 @@
       </filter>
     </defs>
 
-    <!-- Glassmorphic Border Accent Line -->
-    <rect x="10" y="10" width="630" height="130" rx="8" stroke="url(#cyberGradient)" stroke-width="1.5" stroke-opacity="0.3" fill="#0D1117" />
     
-    <!-- Left Neon Accent Pill -->
-    <rect x="10" y="45" width="4" height="60" rx="2" fill="url(#cyberGradient)" filter="url(#glow)" />
-
-    <!-- Typography Design with Modern Sans-Serif Alignment -->
-    <text x="35" y="68" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="4">AKSHAY DATARKAR</text>
-    
-    <!-- Subtitles with Clean Contrasting Weights -->
-    <text x="35" y="102" fill="url(#cyberGradient)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
-    <text x="245" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
-    <text x="265" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">MOTION DESIGNER</text>
-    <text x="435" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
-    <text x="455" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">UI/UX</text>
   </svg>
 </p>
 
