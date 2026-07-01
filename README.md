@@ -1,8 +1,14 @@
 # ⚡ Hello World, I'm Akshay Datarkar! 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Motion+Graphics+Editor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AKSHAY+DATARKAR;FULL-STACK+DEVELOPER;MOTION+GRAPHICS+EDITOR;UI%2FUX+DESIGNER" alt="Premium Typography Header" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8%20Premium%20Digital%20Experiences%20-%20%230D1117?style=flat-square&labelColor=00F2FE&color=12131C" alt="Aesthetic Subtitle Badge" />
+</p>
+
+---
 
 ---
 
