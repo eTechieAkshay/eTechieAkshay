@@ -28,13 +28,12 @@ A detail-oriented **Professional Graphics Designer, Motion Editor, and UI/UX Des
 
 ---
 
-### 📈 GitHub Live Analytics
+### 📈 GitHub Profile Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eTechieAkshay&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=8B949E" alt="Akshay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eTechieAkshay&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eTechieAkshay&theme=tokyonight&hide_border=true" alt="Akshay's Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eTechieAkshay&theme=tokyonight" alt="Profile Details" width="48%" />
 </p>
-
 ---
 
 ### 🏅 Quick Navigation
