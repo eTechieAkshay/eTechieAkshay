@@ -14,17 +14,27 @@
       </filter>
     </defs>
 
+    <!-- Glassmorphic Border Accent Line -->
+    <rect x="10" y="10" width="630" height="130" rx="8" stroke="url(#cyberGradient)" stroke-width="1.5" stroke-opacity="0.3" fill="#0D1117" />
     
+    <!-- Left Neon Accent Pill -->
+    <rect x="10" y="45" width="4" height="60" rx="2" fill="url(#cyberGradient)" filter="url(#glow)" />
+
+    <!-- Typography Design with Modern Sans-Serif Alignment -->
+    <text x="35" y="68" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="4">AKSHAY DATARKAR</text>
+    
+    <!-- Subtitles with Clean Contrasting Weights -->
+    <text x="35" y="102" fill="url(#cyberGradient)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+    <text x="245" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
+    <text x="265" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">MOTION DESIGNER</text>
+    <text x="435" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
+    <text x="455" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">UI/UX ENTHUSIAST</text>
   </svg>
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%A8%20Premium%20Digital%20Experiences%20-%20%230D1117?style=flat-square&labelColor=00F2FE&color=12131C" alt="Aesthetic Subtitle Badge" />
 </p>
-
----
 
 ---
 
@@ -45,7 +55,7 @@ A detail-oriented **Professional Graphics Designer, Motion Editor, and UI/UX Des
 
 #### 🎨 Creative Tools & Motion Design
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&loveColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -56,7 +66,11 @@ A detail-oriented **Professional Graphics Designer, Motion Editor, and UI/UX Des
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eTechieAkshay&theme=tokyonight&hide_border=true" alt="Akshay's Streak" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eTechieAkshay&theme=tokyonight" alt="Profile Details" width="48%" />
 </p>
+
 ---
+
+### 🏅 Quick Navigation
+*   🏆 **Credentials:** Check out my verified certificates, academic sheets, and job simulations in my [Achievements & Certifications Repository](https://github.com/eTechieAkshay/Achievment-And-Cirtifications-).
 
 ### 🏅 Quick Navigation
 *   📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/) | Email: aethycal@gmail.com
