@@ -1,35 +1,7 @@
 # ⚡ Hello World, I'm Akshay Datarkar! 🚀
 
 <p align="center">
-  <svg width="650" height="150" viewBox="0 0 650 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Premium Neon-Cyan Gradient Glow Layer -->
-    <defs>
-      <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#00F2FE" />
-        <stop offset="100%" stop-color="#4FACFE" />
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="5" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over" />
-      </filter>
-    </defs>
-
-    <!-- Glassmorphic Border Accent Line -->
-    <rect x="10" y="10" width="630" height="130" rx="8" stroke="url(#cyberGradient)" stroke-width="1.5" stroke-opacity="0.3" fill="#0D1117" />
-    
-    <!-- Left Neon Accent Pill -->
-    <rect x="10" y="45" width="4" height="60" rx="2" fill="url(#cyberGradient)" filter="url(#glow)" />
-
-    <!-- Typography Design with Modern Sans-Serif Alignment -->
-    <text x="35" y="68" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="4">AKSHAY DATARKAR</text>
-    
-    <!-- Subtitles with Clean Contrasting Weights -->
-    <text x="35" y="102" fill="url(#cyberGradient)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
-    <text x="245" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
-    <text x="265" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">MOTION DESIGNER</text>
-    <text x="435" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">|</text>
-    <text x="455" y="102" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="2">UI/UX ENTHUSIAST</text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=100&lines=AKSHAY+DATARKAR;FULL-STACK+DEVELOPER;MOTION+DESIGNER;UI%2FUX+ENTHUSIAST" alt="Akshay Datarkar Banner" />
 </p>
 
 <p align="center">
@@ -55,7 +27,7 @@ A detail-oriented **Professional Graphics Designer, Motion Editor, and UI/UX Des
 
 #### 🎨 Creative Tools & Motion Design
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&loveColor=white)
+![](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -71,12 +43,3 @@ A detail-oriented **Professional Graphics Designer, Motion Editor, and UI/UX Des
 
 ### 🏅 Quick Navigation
 *   🏆 **Credentials:** Check out my verified certificates, academic sheets, and job simulations in my [Achievements & Certifications Repository](https://github.com/eTechieAkshay/Achievment-And-Cirtifications-).
-
-### 🏅 Quick Navigation
-*   📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/) | Email: aethycal@gmail.com
-*   🏆 **Credentials:** Check out my verified certificates, academic sheets, and job simulations in my [Achievements & Certifications Repository](https://github.com/eTechieAkshay/Achievment-And-Cirtifications-).
-
----
-<p align="center">
-  <i>"Crafting high-end visual systems and robust backend logic."</i>
-</p>
