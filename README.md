@@ -5,7 +5,7 @@
   <div style="background: #0D1117; border: 1px solid rgba(0, 242, 254, 0.3); padding: 15px 20px; border-radius: 30px; max-width: 650px;">
     <marquee behavior="scroll" direction="left" scrollamount="6">
       <span style="color: #FFFFFF; font-family: sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 2px;">
-        AKSHAY DATARKAR &nbsp;<font color="#00F2FE">✦</font>&nbsp; FULL-STACK DEVELOPER &nbsp;<font color="#00F2FE">✦</font>&nbsp; MOTION DESIGNER &nbsp;<font color="#00F2FE">✦</font>&nbsp; UI/UX ENTHUSIAST &nbsp;<font color="#00F2FE">✦</font>&nbsp;
+        AKSHAY DATARKAR &nbsp;<font color="#00F2FE">✦</font>&nbsp; FULL-STACK DEVELOPER &nbsp;<font color="#00F2FE">✦</font>&nbsp; MOTION DESIGNER &nbsp;<font color="#00F2FE">✦</font>&nbsp; UI/UX ENTHUSIAST &nbsp;<font color="#00F2FE">✦</font>&nbsp;Graphics Designer &nbsp;<font color="#00F2FE">✦</font>&nbsp;
       </span>
     </marquee>
   </div>
