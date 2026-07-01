@@ -1,7 +1,34 @@
 # ⚡ Hello World, I'm Akshay Datarkar! 🚀
 
+# ⚡ Hello World, I'm Akshay Datarkar! 🚀
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=100&lines=AKSHAY+DATARKAR;FULL-STACK+DEVELOPER;MOTION+DESIGNER;UI%2FUX+ENTHUSIAST" alt="Akshay Datarkar Banner" />
+  <svg width="650" height="70" viewBox="0 0 650 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Premium Neon Edge & Glassmorphic Background -->
+    <defs>
+      <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00F2FE" />
+        <stop offset="50%" stop-color="#4FACFE" />
+        <stop offset="100%" stop-color="#00F2FE" />
+      </linearGradient>
+    </defs>
+    
+    <rect x="5" y="5" width="640" height="60" rx="30" stroke="url(#cyberGrad)" stroke-width="1.5" stroke-opacity="0.4" fill="#0D1117" />
+    
+    <!-- Seamless Infinite Horizontal Scrolling Architecture -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="12s" repeatCount="indefinite" />
+      
+      <text x="50" y="42" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" letter-spacing="3">
+        AKSHAY DATARKAR  <tspan fill="#00F2FE">✦</tspan>  FULL-STACK DEVELOPER  <tspan fill="#00F2FE">✦</tspan>  MOTION DESIGNER  <tspan fill="#00F2FE">✦</tspan>  UI/UX ENTHUSIAST  <tspan fill="#00F2FE">✦</tspan>
+      </text>
+      
+      <!-- Duplicate Set for Seamless Loop Wrapping -->
+      <text x="650" y="42" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" letter-spacing="3">
+        AKSHAY DATARKAR  <tspan fill="#00F2FE">✦</tspan>  FULL-STACK DEVELOPER  <tspan fill="#00F2FE">✦</tspan>  MOTION DESIGNER  <tspan fill="#00F2FE">✦</tspan>  UI/UX ENTHUSIAST  <tspan fill="#00F2FE">✦</tspan>
+      </text>
+    </g>
+  </svg>
 </p>
 
 <p align="center">
