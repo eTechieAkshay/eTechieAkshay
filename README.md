@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Optimized High-End Dynamic Branding Banner -->
-  <img src="https://capsule-render.vercel.app/type=soft&bgAnimate=true&background=111827&color=00F2FE&height=165&section=header&text=Akshay%20Datarkar&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%9C%A6%20Motion%20Designer%20%E2%9C%A6%20UI/UX%20Architect&descSize=16&descAlignY=70" width="100%" />
-
-  <br/>
+  <!-- 100% Stable Vector Neon Header Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=100&lines=Akshay+Datarkar;Full-Stack+Developer;Motion+Designer+%E2%9C%A6+UI%2FUX" alt="Akshay Datarkar Banner" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/%E2%9C%A8%20Premium%20Digital%20Experiences%20-%20%230D1117?style=flat-square&labelColor=00F2FE&color=111827" alt="Aesthetic Tag" />
