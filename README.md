@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Dynamic Branding Header Banner -->
+  <!-- Optimized High-End Dynamic Branding Banner -->
   <img src="https://capsule-render.vercel.app/type=soft&bgAnimate=true&background=111827&color=00F2FE&height=165&section=header&text=Akshay%20Datarkar&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%E2%9C%A6%20Motion%20Designer%20%E2%9C%A6%20UI/UX%20Architect&descSize=16&descAlignY=70" width="100%" />
 
   <br/>
@@ -22,16 +22,16 @@ A detail-oriented **Creative Technologist** and **Master of Computer Application
 
 ---
 
-### 🛠️ Tech Stack \& Creative Ecosystem
+### 🛠️ Tech Stack & Creative Ecosystem
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Development \& Database Infrastructure</h4>
+      <h4>💻 Development & Database Infrastructure</h4>
       <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,tailwind,js,c,cpp,cs,androidstudio,git" alt="Dev Stack" />
     </td>
     <td valign="top" width="50%">
-      <h4>🎨 Creative Tools \& Motion Ecosystem</h4>
+      <h4>🎨 Creative Tools & Motion Ecosystem</h4>
       <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr" alt="Design Stack" />
     </td>
   </tr>
@@ -45,7 +45,7 @@ A detail-oriented **Creative Technologist** and **Master of Computer Application
 
 ---
 
-### 📊 GitHub Core Analytics \& Status
+### 📊 GitHub Core Analytics & Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eTechieAkshay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Akshay's Stats" height="165" />
