@@ -7,6 +7,24 @@
     <img src="https://img.shields.io/badge/MCA%20Candidate-RAICSIT-blue?style=flat-square&logo=education&logoColor=white" alt="MCA Status" />
     <img src="https://img.shields.io/badge/Location-Wardha%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
+
+  <!-- 🌐 LIVE PORTFOLIO & PROJECTS MATRIX -->
+  <p align="center">
+    <a href="https://etechieakshay.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
+    </a>
+    <a href="https://github.com/eTechieAkshay" target="_blank">
+      <img src="https://img.shields.io/badge/🐙%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <br><br>
+    <a href="https://etechieakshay.github.io/TechieTrend-E-com-Website/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀%20Live%20Project%201-FF007A?style=flat-square&logo=vercel&logoColor=white" alt="Live Site 1" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://etechieakshay.github.io/Attendance-Management-By-Techie/" target="_blank">
+      <img src="https://img.shields.io/badge/⚡%20Live%20Project%202-00DF89?style=flat-square&logo=netlify&logoColor=white" alt="Live Site 2" />
+    </a>
+  </p>
 </div>
 
 ---
